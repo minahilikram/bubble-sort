@@ -6,7 +6,7 @@ I tested both recursive and iterative functions of sorting. I started with very 
 # Tests
 
 | SIZE OF ARRAY TESTED | RECURSIVE SORT (sec) | ITERATIVE SORT (sec) | DIFFERENCE (sec) |
-| -------------------- |:--------------------:| :-------------------:| ---------------- |
+| :------------------: |:--------------------:| :-------------------:| :--------------: |
 | 10     			   | 0  				  | 0   				 | 0				|
 | 100    			   | 0  				  | 0   				 | 0                |
 | 1000				   | 0  				  | 0 					 | 0                |
@@ -18,7 +18,7 @@ I tested both recursive and iterative functions of sorting. I started with very 
 ### Random Numbers Limited
 
 | SIZE OF ARRAY TESTED | RECURSIVE SORT (sec) | ITERATIVE SORT (sec) | DIFFERENCE (sec) | DIFFERENCE OF DIFFERENCES (sec) |
-| -------------------- |:--------------------:| :-------------------:| :--------------: | ------------------------------- |
+| :------------------: |:--------------------:| :-------------------:| :--------------: | :-----------------------------: |
 | 100000 			   | 38   				  | 34    				 | 2 				|            5                    |
 | 200000 			   | 157  				  | 136   				 | 21               |            5                    |
 | 300000			   | 354  				  | 305 				 | 49               |            10                   |
