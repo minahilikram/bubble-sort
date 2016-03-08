@@ -17,9 +17,7 @@ $ make
 
 ## Usage
 
-```sh
-$ make run
-```
+For an example, see [src/main.c](https://github.com/minahilikram/bubble-sort-comparison/blob/master/src/main.c).
 
 ## Limitations
 
