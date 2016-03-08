@@ -7,13 +7,13 @@ I tested both recursive and iterative functions of sorting. I started with very 
 
 | SIZE OF ARRAY TESTED | RECURSIVE SORT (sec) | ITERATIVE SORT (sec) | DIFFERENCE (sec) |
 | :------------------: |:--------------------:| :-------------------:| :--------------: |
-| 10     			   | 0  				  | 0   				 | 0				|
-| 100    			   | 0  				  | 0   				 | 0                |
-| 1000				   | 0  				  | 0 					 | 0                |
-| 10000 			   | 0    				  | 0  					 | 0                |
-| 100000 			   | 46    				  | 39   				 | 7                |
-| 200000 			   | 184   				  | 158   				 | 26               |
-| 300000			   | 416   				  | 357   				 | 59               |
+| 10     	       | 0  		      | 0   			 | 0		    |
+| 100    	       | 0  		      | 0   			| 0                |
+| 1000			| 0  		      | 0 			 | 0                |
+| 10000 		| 0    			| 0  			| 0                |
+| 100000 		| 46    		 | 39   		 | 7                |
+| 200000 		 | 184   		 | 158   		| 26               |
+| 300000		| 416   		| 357   		| 59               |
 
 ### Random Numbers Limited
 
