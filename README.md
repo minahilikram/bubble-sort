@@ -11,8 +11,6 @@ compares each pair of adjacent items and swaps them if they are in the wrong ord
 
 ```sh
 $ git clone https://github.com/minahilikram/bubble-sort-comparison
-$ cd bubble-sort-comparison/
-$ make
 ```
 
 ## Usage
