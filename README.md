@@ -17,7 +17,7 @@ $ make
 
 ## Usage
 
-```js
+```sh
 $ make run
 ```
 
