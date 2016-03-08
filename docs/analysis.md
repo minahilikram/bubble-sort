@@ -26,10 +26,10 @@ I tested both recursive and iterative functions of sorting. I started with very 
 
 # Results
 
-	- Very small arrays, 0-10000, did not effect the speed so when I limited the random numbers I only tested very large arrays.
-    - As the array got really big the difference in time between the two functions got bigger.
-    - Arrays that were bigger than 300000 took too long for my computer to process so I was not able to complete those processes.
-    - The random numbers being limited did not affect the outcome
+- Very small arrays, 0-10000, did not effect the speed so when I limited the random numbers I only tested very large arrays.
+- As the array got really big the difference in time between the two functions got bigger.
+- Arrays that were bigger than 300000 took too long for my computer to process so I was not able to complete those processes.
+- The random numbers being limited did not affect the outcome
 
 	
 # Conclusions
