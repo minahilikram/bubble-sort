@@ -1,6 +1,6 @@
 CC          =	gcc
 # Flags that are sent to the compiler
-# Do not change these
+
 CFLAGS      =	-Wall -ansi -pedantic -g
 
 #Directories where the compiler can find things
@@ -9,7 +9,7 @@ INCLUDES    = -Iinclude
 all : main
 
 main: 
-	gcc $(CFLAGS) src/sort.c src/main.c -o bin/mainrunnable -Iinclude
+	gcc $(CFLAGS) src/sort.c src/main.c -o bin/mainrunnable $(INCLUDES)
 
 clean:
 	@ rm *.o
