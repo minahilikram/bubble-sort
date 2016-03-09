@@ -15,7 +15,7 @@ $ git clone https://github.com/minahilikram/bubble-sort
 
 ## Usage
 
-For an example, see [src/main.c](https://github.com/minahilikram/bubble-sort/blob/master/src/main.c), to execute see below.
+For an example, see [src/main.c](https://github.com/minahilikram/bubble-sort/blob/master/src/main.c); to execute see below.
 
 ```sh
 $ cd bubble-sort/
