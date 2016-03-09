@@ -1,7 +1,5 @@
 # bubble-sort
 
-> Bubble Sort
-
 [Bubble Sort](http://en.wikipedia.org/wiki/Bubble_sort) recursive and iterative implementation based on C Algorithms for complexity comparison.
 
 > Bubble sort is a simple sorting algorithm that repeatedly steps through the list to be sorted, 
