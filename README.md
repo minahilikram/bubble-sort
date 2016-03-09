@@ -1,4 +1,4 @@
-# bubble-sort-comparison
+# bubble-sort
 
 > Bubble Sort
 
